@@ -1,0 +1,424 @@
+body {
+    margin: 0;
+}
+
+body header {
+    position: absolute;
+    width: 1980px;
+    height: 628px;
+    left: 0px;
+    top: 0px;
+}
+
+.logo-wifi {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 499px;
+    top: 44px;
+}
+
+.starter {
+    position: absolute;
+    width: 141px;
+    height: 45px;
+    left: 547px;
+    top: 20px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #1A202C;
+}
+
+.Github {
+    position: absolute;
+    width: 59px;
+    height: 23px;
+    left: 1336px;
+    top: 58px;
+    font-size: 20px;
+    line-height: 23px;
+    color: #2D3748;
+    text-decoration: none;
+}
+
+.sing {
+    position: absolute;
+    width: 60px;
+    height: 23px;
+    left: 1443px;
+    top: 58px;
+    font-size: 20px;
+    line-height: 23px;
+    color: #2D3748;
+    text-decoration: none;
+}
+
+.Modern {
+    position: absolute;
+    width: 653px;
+    height: 48px;
+    left: 664px;
+    top: 222px;
+    font-size: 48px;
+    line-height: 56px;
+    color: #1A202C;
+}
+
+.devolopers {
+    position: absolute;
+    width: 238px;
+    height: 56px;
+    left: 877px;
+    top: 286px;
+    font-size: 48px;
+    line-height: 56px;
+    color: #03A9F4;
+}
+
+.easiest {
+    position: absolute;
+    width: 547px;
+    height: 56px;
+    left: 717px;
+    top: 377px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #718094;
+}
+
+.download {
+    position: absolute;
+    width: 364px;
+    height: 73px;
+    left: 808px;
+    top: 457px;
+    border-radius: 7px;
+    background: #03A9F4;
+    color: white;
+}
+
+.title-1 {
+    position: absolute;
+    width: 228px;
+    height: 84px;
+    left: 850px;
+    top: 756px;
+    font-size: 36px;
+    line-height: 42px;
+    color: #1A202C;
+}
+
+.text-1 {
+    position: absolute;
+    width: 830px;
+    height: 76px;
+    left: 552px;
+    top: 840px;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #718096;
+}
+
+.title-2 {
+    position: absolute;
+    width: 125px;
+    height: 23px;
+    left: 623px;
+    top: 1081px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.text-2 {
+    position: absolute;
+    width: 467px;
+    height: 124px;
+    left: 452px;
+    top: 1134px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #718096;
+}
+
+.img-1 {
+    position: absolute;
+    width: 374.24px;
+    height: 306.74px;
+    left: 1131px;
+    top: 1015px;
+}
+
+.img-2 {
+    position: absolute;
+    width: 378.44px;
+    height: 325.79px;
+    left: 485px;
+    top: 1458px;
+}
+
+.title-3 {
+    position: absolute;
+    width: 125px;
+    height: 23px;
+    left: 1232px;
+    top: 1538px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.text-3 {
+    position: absolute;
+    width: 467px;
+    height: 124px;
+    left: 1061px;
+    top: 1596px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #718096;
+}
+
+.title-4 {
+    position: absolute;
+    width: 125px;
+    height: 23px;
+    left: 623px;
+    top: 1976px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+}
+
+.text-4 {
+    position: absolute;
+    width: 467px;
+    height: 124px;
+    left: 452px;
+    top: 2029px;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #718096;
+}
+
+.img-3 {
+    position: absolute;
+    width: 415px;
+    height: 304px;
+    left: 1108px;
+    top: 1920px;
+}
+
+.trial {
+    position: absolute;
+    width: 1166px;
+    height: 194px;
+    left: 407px;
+    top: 2352px;
+    background: #E6F6FE;
+    border-radius: 10px;
+}
+
+.text-5 {
+    position: absolute;
+    width: 598px;
+    height: 56px;
+    left: 464px;
+    top: 2407px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.start {
+    position: absolute;
+    width: 218px;
+    height: 56px;
+    left: 464px;
+    top: 2463px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+    color: #03A9F4;
+}
+
+.get-start {
+    position: absolute;
+    width: 164px;
+    height: 46px;
+    left: 1325px;
+    top: 2418px;
+    border-radius: 10px;
+    background: #03A9F4;
+    color: white;
+}
+
+.foter-logo {
+    position: absolute;
+    left: 46.57%;
+    right: 51.82%;
+    top: 91.74%;
+    bottom: 7.19%;
+}
+
+footer {
+    position: absolute;
+    width: 1980px;
+    height: 321px;
+    left: 0px;
+    top: 2682px;
+
+    background: #F7FAFC;
+}
+
+.foter-starter {
+    position: absolute;
+    width: 62px;
+    height: 23px;
+    left: 1020px;
+    top: 290px;
+    font-size: 40px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+
+.home {
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    left: 796px;
+    top: 400px;
+    font-size: 30px;
+    line-height: 23px;
+    text-align: center;
+    color: #2D3748
+}
+
+.about {
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    left: 905px;
+    top: 400px;
+    font-size: 30px;
+    line-height: 23px;
+    text-align: center;
+    color: #2D3748;
+}
+
+.dock {
+    position: absolute;
+    width: 46px;
+    height: 23px;
+    left: 1020px;
+    top: 400px;
+    font-size: 30px;
+    line-height: 23px;
+    text-align: center;
+    color: #2D3748;
+}
+
+.foter-Github {
+    position: absolute;
+    width: 62px;
+    height: 23px;
+    left: 1123px;
+    top: 400px;
+    font-size: 30px;
+    line-height: 23px;
+    text-align: center;
+    color: #2D3748;
+}
+
+.foter-Github-logo {
+    position: absolute;
+    width: 24px;
+    height: 23.39px;
+    left: 865px;
+    top: 500px;
+}
+
+.facebook {
+    position: absolute;
+    width: 24px;
+    height: 23.85px;
+    left: 905px;
+    top: 500px;
+}
+
+.twiter {
+    position: absolute;
+    width: 24px;
+    height: 20px;
+    left: 944px;
+    top: 500px;
+}
+
+.youtube {
+    position: absolute;
+    width: 24px;
+    height: 20px;
+    left: 980px;
+    top: 500px; 
+}
+
+.link {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1022px;
+    top: 500px;
+}
+
+.mail {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1060px;
+    top: 500px;
+}
+
+.wifi {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1095px;
+    top: 500px; 
+}
+
+.foter-text {
+    position: absolute;
+    width: 324px;
+    height: 18px;
+    left: 760px;
+    top: 550px;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #718096;
+}
+
+.name {
+    position: absolute;
+    width: 131px;
+    height: 16px;
+    left: 940px;
+    top: 550px;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #03A9F4;
+}
